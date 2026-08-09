@@ -10,6 +10,7 @@ There's no official modding documentation for this game, so the goal of this rep
 
 - [AT](Enums/AT.md) — attack/damage type flags (Physical, Fire, Cold, Void, Elemental, Spell, Melee, etc.)
 - [AbilityID](Enums/AbilityID.md) — IDs for every skill/ability in the game
+- [AbilityAnimation](Enums/AbilityAnimation.md) — IDs for every skill/ability in the game
 - [AilmentID](Enums/AilmentID.md) — status effect/ailment types (Ignite, Bleed, Chill, Shock, Poison, etc.)
 - [HitEventTag](Enums/HitEventTag.md) — tags attached to hit events (Hit, Crit, Kill, Freeze, Stun, Block, MeleeHit)
 - [SP](Enums/SP.md) — character stat/property IDs (Damage, Health, Mana, Armour, CritChance, etc.)
